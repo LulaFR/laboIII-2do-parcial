@@ -1,0 +1,22 @@
+{
+  "healthy": [
+    {
+      "fullName": "Agostina AFR",
+      "age": 25,
+      "neighbourhood": "Mismo barrio",
+      "id": "12345670",
+      "occupation": "Misma ocupación",
+      "kit": 111
+    }
+  ],
+  "isolated": [
+    {
+      "id": "12345600",
+      "temperature": 38.48593748828566
+    },
+    {
+      "id": "12345678",
+      "temperature": 38.97799715600008
+    }
+  ]
+}
